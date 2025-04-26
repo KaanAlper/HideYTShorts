@@ -4,8 +4,8 @@
 // @description  Toggle removal of YouTube Shorts content
 // @match        https://*.youtube.com/*
 // @grant        none
-// @downloadURL
-// @updateURL 
+// @downloadURL https://raw.githubusercontent.com/KaanAlper/HideYTShorts/refs/heads/main/HideYTShorts.js
+// @updateURL https://raw.githubusercontent.com/KaanAlper/HideYTShorts/refs/heads/main/HideYTShorts.js
 // ==/UserScript==
 
 (() => {
