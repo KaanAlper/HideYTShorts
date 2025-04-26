@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         No More YouTube Shorts (Toggle Button)
 // @version      1.3
+// @license https://raw.githubusercontent.com/KaanAlper/HideYTShorts/refs/heads/main/LICENSE
 // @description  Toggle removal of YouTube Shorts content
 // @match        https://*.youtube.com/*
 // @grant        none
